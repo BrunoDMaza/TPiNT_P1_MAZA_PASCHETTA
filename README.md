@@ -14,4 +14,4 @@ En el repositorio va a encontrar:
 2. El archivo .py que desarrolla la teoría en un ejercicio práctico
 3. El link con el video donde con mi compañero desarrollamos la explicación del trabajo
 
-Link del video: https://www.youtube.com/watch?v=ugy2UuD33l8
+Link del video: https://www.youtube.com/watch?v=wWhGcoSD53s
